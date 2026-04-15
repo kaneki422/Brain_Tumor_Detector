@@ -1,0 +1,24 @@
+We mainly use python and there libraries
+like
+torch torchvision
+scikit-learn scikit-image
+opencv-python pillow numpy matplotlib
+pyqt5
+joblib
+
+
+and we made few files too:-
+1. Preprocessing.py
+	In this file image will be processing
+2. feature_extraction.py
+	In this file GLCM + Statistical features
+3. Traditional_ml.py
+	In this SVM,KNN, Naive Bayes
+4. Cnn_model.py
+	In this Cnn with pytorch
+5. train.py	
+	In this training the pipeline
+6. Predict.py
+	In this file Inference acure
+7. app.py
+	In this Tkinter/PyQt GUI will appear 
